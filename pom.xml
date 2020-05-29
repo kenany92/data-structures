@@ -11,6 +11,7 @@
     <modules>
         <module>static-array</module>
         <module>dynamic-array</module>
+        <module>singly-linked-list</module>
     </modules>
 
     <dependencies>
