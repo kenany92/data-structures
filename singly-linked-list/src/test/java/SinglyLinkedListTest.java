@@ -357,7 +357,7 @@ public class SinglyLinkedListTest {
             singlyLinkedList.update(0, "foo");
         });
 
-        assertThrows("You can't update item at index which is greater than lsit size", IndexOutOfBoundsException.class, () -> {
+        assertThrows("You can't update item at index which is greater than list size", IndexOutOfBoundsException.class, () -> {
             int out = singlyLinkedList.size() + 1;
             singlyLinkedList.update(out, "foo");
         });
