@@ -1,3 +1,4 @@
+package com.kenany.singlylinkedlist;
 
 public class Node<T> {
 

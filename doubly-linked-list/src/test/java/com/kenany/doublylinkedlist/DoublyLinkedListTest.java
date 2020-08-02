@@ -1,3 +1,6 @@
+package com.kenany.doublylinkedlist;
+
+import com.kenany.doublylinkedlist.DoublyLinkedList;
 import org.junit.Before;
 import org.junit.Test;
 

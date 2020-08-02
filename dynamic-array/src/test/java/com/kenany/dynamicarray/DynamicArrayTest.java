@@ -1,3 +1,6 @@
+package com.kenany.dynamicarray;
+
+import com.kenany.dynamicarray.DynamicArray;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;

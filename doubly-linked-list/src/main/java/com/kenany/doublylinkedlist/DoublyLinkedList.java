@@ -1,3 +1,5 @@
+package com.kenany.doublylinkedlist;
+
 /**
  * Data Structures
  * Doubly linked list (basics operations implementation)

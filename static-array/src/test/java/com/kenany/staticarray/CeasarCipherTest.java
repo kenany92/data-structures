@@ -1,3 +1,5 @@
+package com.kenany.staticarray;
+
 import org.junit.Test;
 import static org.junit.Assert.*;
 

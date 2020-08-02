@@ -1,3 +1,5 @@
+package com.kenany.staticarray;
+
 import org.junit.Before;
 import org.junit.Test;
 

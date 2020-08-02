@@ -1,3 +1,4 @@
+package com.kenany.staticarray;
 
 public class CeasarCipher {
 

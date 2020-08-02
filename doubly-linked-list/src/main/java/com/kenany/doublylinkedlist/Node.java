@@ -1,3 +1,5 @@
+package com.kenany.doublylinkedlist;
+
 public class Node<T> {
 
     public T data;

@@ -1,3 +1,5 @@
+package com.kenany.singlylinkedlist;
+
 /**
  * Data Structures
  * Singly linked list (basics operations implementation)

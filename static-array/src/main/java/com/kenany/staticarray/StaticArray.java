@@ -1,3 +1,5 @@
+package com.kenany.staticarray;
+
 /**
  * Data Structures
  * Static Array (basics operations implementation)

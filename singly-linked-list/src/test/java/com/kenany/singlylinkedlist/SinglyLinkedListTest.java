@@ -1,3 +1,6 @@
+package com.kenany.singlylinkedlist;
+
+import com.kenany.singlylinkedlist.SinglyLinkedList;
 import org.junit.Before;
 import org.junit.Test;
 

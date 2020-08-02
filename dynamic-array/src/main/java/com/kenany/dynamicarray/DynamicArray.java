@@ -1,3 +1,5 @@
+package com.kenany.dynamicarray;
+
 /**
  * Data Structures
  * Dynamic Array (basics operations implementation)
